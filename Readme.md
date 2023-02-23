@@ -8,11 +8,7 @@
   </p>
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Lucas-Angelo/portfolio">
-    <img src="./website/img/index.png">
-  </a>
-</p>
+
 
 ## 🔖 About
 
